@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+.container{
+    background-color: aliceblue;
+    box-shadow: 0 0 10px gray;
+}
+.box{
+    background-color: green;
+    border: 5px solid black;    
+}
